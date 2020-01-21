@@ -1,7 +1,7 @@
 # Tribute-Page
- freeCodeCamp
+ 
 
-freeBootCamp Responsive Web Design Project #1
+- freeBootCamp Responsive Web Design Project #1
 
 Just using basic HTML & CSS
 
