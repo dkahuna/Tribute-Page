@@ -1,7 +1,9 @@
 # Tribute-Page
-The first project from freeCodeCamp
+ freeCodeCamp
 
-Just using basic HTML, CSS, and JavaScript
+freeBootCamp Responsive Web Design Project #1
+
+Just using basic HTML & CSS
 
 *Learning and practicing the front-end of things
 
